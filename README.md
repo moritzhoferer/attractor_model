@@ -12,6 +12,18 @@ Our main insight in this paper is that despite of the endogeneity of the distrib
 This result is called the median attractor result. 
 We also show that candidates choose smaller influence ranges to attract voter groups as such strategies trigger the most favorable shift of the voter's ideal distribution towards the candidates' policy positions.
 
+## Content
+
+This repository contain code to vizualize the mode in an interactive way and reproduce the results and figures of the project.
+
+### Interactive programe
+
+These programs end on `-interactive.py` and have to be run within `ipython`.
+
+### Reproduce results
+
+All files that end on `-calc.py` or `-plot.py`.
+
 ## Run code in a virtual invironment
 
 First setup and active the environment for exmaple with `pip`
