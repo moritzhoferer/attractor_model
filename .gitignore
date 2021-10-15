@@ -1,0 +1,8 @@
+# Configuration files and directories for IDEs
+.vscode
+__pycache__
+venv/
+
+# Output directories
+data/
+graphics/
