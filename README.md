@@ -1,6 +1,8 @@
 # The Attractor Model of Political Competition
 
-This model is joint work with [Hans Gersbach](https://mtec.ethz.ch/people/person-detail.hansgersbach.html). The paper will be available online soon.
+This is joint work with [Hans Gersbach](https://mtec.ethz.ch/people/person-detail.hansgersbach.html).
+The paper will be available online soon.
+Note that visualization look different as my personal style sheet is missing in the repository.
 
 ## Abstract
 
@@ -14,7 +16,7 @@ We also show that candidates choose smaller influence ranges to attract voter gr
 
 ## Content
 
-This repository contain code to vizualize the mode in an interactive way and reproduce the results and figures of the project.
+This repository contains code to vizualize the mode in an interactive way and reproduce the results and figures of the project.
 
 ### Interactive programe
 
@@ -39,3 +41,4 @@ python -m pip install -r requirements.txt
 ```
 
 Now you can run the other files.
+The `interactive-stationary_solution` file has to be executed within iPython.

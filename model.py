@@ -12,11 +12,6 @@ import matplotlib.pyplot as plt
 from matplotlib.ticker import MaxNLocator
 from matplotlib.widgets import Slider, Button, RadioButtons
 
-# My personal style sheet
-if 'momo' in plt.style.available:
-    plt.style.use('momo')
-
-
 class StatModel(object):
     def __init__(self, size: int = 9, rho: float = .01, strategies: dict = None, 
         radius: int = 1, version: int = 3):
